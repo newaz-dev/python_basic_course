@@ -7,10 +7,10 @@ for i in list:
 print("we are out from loop")
 
 #Again
-
 for i in list:
     if type(i) == type("a"):
         continue #this will ignore the item and continue the loop till end. 
     else:
         print(i)
 print("Invalid items('d', 't', 'x') are excluded or ignored")
+#
