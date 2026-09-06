@@ -16,3 +16,8 @@ print(new_a)
 print(new_b)
 #Both will be giving the same output
         
+# Another Example:
+# if we have a full conditional statement contsining if-else both then the same command will be modified
+x = [100,101,102,103,104,105,106,107,108,109,110]
+x_new = [i+2 if i % 2 == 0 else i for i in x]
+print(x_new)
