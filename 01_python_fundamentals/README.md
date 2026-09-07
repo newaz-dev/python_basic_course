@@ -23,7 +23,7 @@ A beginner-friendly collection of Python examples created while learning the fun
 
 ```text
 python_basic_course/
-└── 01_introduction_to_string/
+└── 01_python_fundamentals/
     ├── 01_string.py
     ├── 02_indexing_string.py
     ├── 03_string_methods.py
