@@ -62,13 +62,13 @@ cd python_basic_course
 ### Run an Example
 
 ```bash
-python 01_introduction_to_string/01_string.py
+python 01_python_fundamentals/01_string.py
 ```
 
 On some systems, use `python3` instead:
 
 ```bash
-python3 01_introduction_to_string/01_string.py
+python3 01_python_fundamentals/01_string.py
 ```
 
 ## Learning Objective
