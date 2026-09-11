@@ -17,4 +17,5 @@ solution_function("Newaz", "Fahmir")
 solution_function("Newaz")
 
 def unknown_function():
-    pass
+    pass #Basically, When we dont know what to define
+  
