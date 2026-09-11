@@ -15,3 +15,6 @@ def solution_function(f_name, l_name = "Khan"): #The preassigning value will wor
 
 solution_function("Newaz", "Fahmir")
 solution_function("Newaz")
+
+def unknown_function():
+    pass
