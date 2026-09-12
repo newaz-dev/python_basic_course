@@ -1,0 +1,6 @@
+hello world
+I am writing a new file
+After using append:'a'
+We got these lines here below hello world and I am writing a new file
+I love  python
+I am new to python
