@@ -21,11 +21,11 @@ class Teacher:
     def teacher_teaches(self):
         print(f"{self.name} is a good teacher")
 #==============================
-# =============================   
+#==============================   
 # Step2:    
 student = Student("Newaz")
 teacher = Teacher("Mr. Zayed")
-# =============================
+#==============================
 
 # Step4:
 student.learn_from(teacher) #Connection between objects of 2 independent classes
